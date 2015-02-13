@@ -1,4 +1,4 @@
-
+SHELL 		= /bin/bash
 XELATEX 	= xelatex -shell-escape
 BIBER		= biber -quiet
 RERUN		= 'rerun latex( afterwards){0}'
